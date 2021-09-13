@@ -57,8 +57,8 @@ The next step is to learn basic programming, below are some of the topics that s
 - Functions and Lambda Function — Benefits of each of them and their differences
 
 Resources: 
-- [YouTube Link](https://www.youtube.com/watch?v=2pzxBYCGQDk&t=46s)
-- [AMAZING article](https://www.dataquest.io/blog/how-to-learn-python-for-data-science-in-5-steps/)
+- [YouTube Link](https://www.youtube.com/watch?v=2pzxBYCGQDk&t=46s) - Watch Day 2 and Day 3 videos
+- [AMAZING article](https://www.dataquest.io/blog/how-to-learn-python-for-data-science-in-5-steps/) - Pick one project, add goals for building profile
 
 ### Day 8 to Day 17: Pandas Library
 
