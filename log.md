@@ -8,4 +8,4 @@
 
 **Thoughts:** My filesystem needs to be more organized - files which are unecessary need to be removed to reduce clutter. I also need to pin down on a project - setting up a good profile for data science
 
-**Link to work:** [Link to work]
+**Link to work:** [Link to work](https://github.com/anirudhparameswaran/100-days-of-code/blob/master/log.md)
