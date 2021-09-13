@@ -1,8 +1,8 @@
 # Primary Resources for Data Science
 
-[Git guide](https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049#d5e9c2b6379246a593c1ef74051e7e3c)
-[What is a fork?](https://www.youtube.com/watch?v=l5NrYIa_aG4)
-[Data Science in 100 days YouTube](https://www.youtube.com/playlist?list=PLH5lMW7dI2qfS6p2Pd0s1nkF6o7W_mDRv)
+1. [Git guide](https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049#d5e9c2b6379246a593c1ef74051e7e3c)
+2. [What is a fork?](https://www.youtube.com/watch?v=l5NrYIa_aG4)
+3. [Data Science in 100 days YouTube](https://www.youtube.com/playlist?list=PLH5lMW7dI2qfS6p2Pd0s1nkF6o7W_mDRv)
 
 ## Projects and Ideas
 Check Kaggle
