@@ -1,4 +1,6 @@
-## A Complete Guide to Learn Data Science in 100 Days
+<details>
+<summary>A Complete Guide to Learn Data Science in 100 Days</summary>
+<br>
 Sharan Kumar Ravindran
 
 Are you interested in learning Data Science but not sure where to start? If Yes, then you have reached the right place.
@@ -23,6 +25,8 @@ In this below video I have mentioned the step-by-step guide to learn Data Scienc
 How to plan the learning? Which topics should be covered first?
 
 Let me clearly explain the plan to learn Data Science in 100 Days. Below is a Day-by-Day plan to learn Data Science using Python, this plan spans 100 days and it is required to spend at least an hour each day
+
+</details>
 
 ### Day 1: Installation of Tool
 
