@@ -59,6 +59,7 @@ The next step is to learn basic programming, below are some of the topics that s
 Resources: 
 - [YouTube Link](https://www.youtube.com/watch?v=2pzxBYCGQDk&t=46s) - Watch Day 2 and Day 3 videos
 - [AMAZING article](https://www.dataquest.io/blog/how-to-learn-python-for-data-science-in-5-steps/) - Pick one project, add goals for building profile
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/data-science-in-gaming-industry/) - general reading
 
 ### Day 8 to Day 17: Pandas Library
 
