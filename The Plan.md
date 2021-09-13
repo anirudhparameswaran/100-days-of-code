@@ -28,32 +28,32 @@ Let me clearly explain the plan to learn Data Science in 100 Days. Below is a Da
 
 Just ensure that the required tools are installed and you become comfortable with the tool you are going to use for the next few weeks/months. If you choose Python then install Anaconda, which would also install the IDEs Jupyter Notebook and Spyder. In case you choose ‘R’ then install RStudio. Try to just play around the IDE and become comfortable in using it. Like, try to understand about the installation of packages/libraries, executing a portion of the code, clearing the memory, and so on.
 
-[Day 1 Log]
+[Day 1 Log](https://github.com/anirudhparameswaran/100-days-of-code/blob/master/log.md)
 
 ### Day 2 to Day 7: Basic Programming for Data Science
 
 The next step is to learn basic programming, below are some of the topics that should be learned
 
-    Creation of Variable
-    String Data Type and operation commonly performed on a String Data type
-    Numeric Data type, Boolean and Operators
-    Collection data types List, Tuple, Sets, and Dictionary — It is important to understand the uniqueness and difference between each one of them’
-    If-Then-Else Conditions, For Loop and While Loop Implementations
-    Functions and Lambda Function — Benefits of each of them and their differences
+- Creation of Variable
+- String Data Type and operation commonly performed on a String Data type
+- Numeric Data type, Boolean and Operators
+- Collection data types List, Tuple, Sets, and Dictionary — It is important to understand the uniqueness and difference between each one of them’
+- If-Then-Else Conditions, For Loop and While Loop Implementations
+- Functions and Lambda Function — Benefits of each of them and their differences
 
 ### Day 8 to Day 17: Pandas Library
 
 Learn about the Pandas library, some of the topics that one needs to learn in pandas are,
 
-    Creating a data frame, reading data from a file, and writing a data frame to a file
-    Indexing and Selection of data from a data frame
-    Iteration and Sorting
-    Aggregation and Group By
-    Missing Values and handling of missing values
-    Renaming and Replacing in Pandas
-    Concatenating, Merging, and Joining in a data frame
-    Summary Analysis, Cross Tabulation, and Pivot
-    Date, Categorical and Sparse Data
+- Creating a data frame, reading data from a file, and writing a data frame to a file
+- Indexing and Selection of data from a data frame
+- Iteration and Sorting
+- Aggregation and Group By
+- Missing Values and handling of missing values
+- Renaming and Replacing in Pandas
+- Concatenating, Merging, and Joining in a data frame
+- Summary Analysis, Cross Tabulation, and Pivot
+- Date, Categorical and Sparse Data
 
 Spend a good 10 days in thoroughly learning the above topics as these topics will be very useful when you perform exploratory data analysis. While covering these topics try to go into the granular details like understanding the differences between merge and join, Crosstab and Pivot by that you not only learn about each one of them but also know when and where to use them.
 
@@ -63,12 +63,12 @@ Why should I learn Pandas? If you take any Data Science project they always begi
 
 Having learned Pandas the next important library to be learned is Numpy. The reason to learn Numpy is that they are very fast as compared to List. The topics to cover in Numpy would include
 
-    Creation of an Array
-    Indexing and Slicing
-    Data Types
-    Joining and splitting
-    Searching and Sorting
-    Filtering required data elements
+- Creation of an Array
+- Indexing and Slicing
+- Data Types
+- Joining and splitting
+- Searching and Sorting
+- Filtering required data elements
 
 Why is it important to learn Numpy? Numpy enables the performance of scientific operations on the data in a fast and efficient way. It supports efficient matrix operations which are commonly used in machine learning algorithms and also pandas library extensively uses Numpy
 
@@ -87,11 +87,11 @@ Then cover slightly deeper techniques such as identifying the Outliers in the Da
 
 As a final step start exploring the various statistics test such as below, understand the application of these statistical tests in real-life
 
-    F-test
-    ANOVA
-    Chi-Squared Test
-    T-Test
-    Z-Test
+- F-test
+- ANOVA
+- Chi-Squared Test
+- T-Test
+- Z-Test
 
 ### Day 36 to Day 40: SQL for Data Analysis
 
@@ -99,10 +99,10 @@ Now time to learn some SQL, this is important because in most corporate use-case
 
 You can start by installing an opensource Database such as MySQL, it would come with some default databases just play around with the data and learn SQL. It will be good if you could focus on learning the below
 
-    Selecting data from a table
-    Joining data from different tables based on a key
-    Performing Group by and Aggregation functions on data
-    Use of case statements and filter conditions
+- Selecting data from a table
+- Joining data from different tables based on a key
+- Performing Group by and Aggregation functions on data
+- Use of case statements and filter conditions
 
 ### Day 41 to Day 50: Exploratory Data Analysis (EDA)
 
@@ -120,9 +120,9 @@ Yes it is important to know about Linear Algebra and Calculus but I would prefer
 
 Spend the first 10 days in knowing some of the key algorithms in Supervised Learning, understand the math behind them, and in the next 10 days focus on learning by developing a project. Some of the Algorithms that should be covered in this period are,
 
-    Linear Regression and Logistic Regression
-    Decision Tree / Random Forest
-    Support Vector Machine (SVM)
+- Linear Regression and Logistic Regression
+- Decision Tree / Random Forest
+- Support Vector Machine (SVM)
 
 In the first 10 days, the focus should be on understanding the theory behind the algorithms you have chosen. Then spend some time understanding the scenarios where each of the algorithms would be more suitable as compared with others like Decision Trees are best when there are a lot of categorical attributes in the dataset.
 
@@ -136,10 +136,10 @@ Now its time to focus on unsupervised learning, similar to the method used in su
 
 The algorithm that should be covered here are,
 
-    Clustering Algorithm — Used to identify Clusters in the dataset
-    Association Analysis — Used to identify patterns in the data
-    Principal Components Analysis — Used to reduce the number of attributes
-    Recommendation System — Used to identify similar users/products and to make recommendations
+- Clustering Algorithm — Used to identify Clusters in the dataset
+- Association Analysis — Used to identify patterns in the data
+- Principal Components Analysis — Used to reduce the number of attributes
+- Recommendation System — Used to identify similar users/products and to make recommendations
 
 In the initial days, the focus should be on understanding each of the above algorithms and techniques also to understand the purpose of each of them and the scenarios where they can be used like principal components analysis generally used for dimensionality reduction when the dataset you are working is having a very large number of columns and you would want to reduce it but still retain the information from them and recommendation systems are popular in e-commerce where based on the purchase patterns of a customer other items that they would likely be interested in could be recommended to increase sales.
 
@@ -151,9 +151,9 @@ As a final step now its time to pick a use-case and implement based on your lear
 
 Make use of this time to focus on analysis and use-cases for unstructured / text data. Few things worth spending time here would include
 
-    Learn to use API to fetch data from the public sources
-    Perform a few basic sentiments analysis — Data from twitter API can be used to extract tweets of a particular hashtag and then the sentiment and the emotions behind those tweets can be computed
-    Topic Modelling — This is useful when there are a large number of document and you want to group them into different categories that this method would come handy
+- Learn to use API to fetch data from the public sources
+- Perform a few basic sentiments analysis — Data from twitter API can be used to extract tweets of a particular hashtag and then the sentiment and the emotions behind those tweets can be computed
+- Topic Modelling — This is useful when there are a large number of document and you want to group them into different categories that this method would come handy
 
 That’s it! You have now covered all the important concepts and ready to apply for any Data Science Jobs. I have started this journey of learning Data Science in 100 Days on my YouTube Channel, if you are interested please join me and start your journey to learn Data Science here
 Start your journey here
