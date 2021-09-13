@@ -28,6 +28,17 @@ Let me clearly explain the plan to learn Data Science in 100 Days. Below is a Da
 
 </details>
 
+<details>
+<summary>100 day goals</summary>
+<br>
+- Follow and post 100DaysofCode for learning and applying data science based on plan below
+- Follow schedule and 1-3-5 system to plan each day
+- Land a job:
+  Follow up with EA - top priority
+  Apply for positions  with referrals - Aditya (Firstcry), Priyanshu (Grofers)
+  Apply for data positions in other companies + Amazon, JPMC etc
+</details>
+
 ### Day 1: Installation of Tool
 
 Just ensure that the required tools are installed and you become comfortable with the tool you are going to use for the next few weeks/months. If you choose Python then install Anaconda, which would also install the IDEs Jupyter Notebook and Spyder. In case you choose ‘R’ then install RStudio. Try to just play around the IDE and become comfortable in using it. Like, try to understand about the installation of packages/libraries, executing a portion of the code, clearing the memory, and so on.
