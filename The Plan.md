@@ -5,21 +5,19 @@ Are you interested in learning Data Science but not sure where to start? If Yes,
 
 I have come across many people who were very passionate about learning Data Science but just in a few weeks, they quit learning. I was wondering why could someone so much passionate about a field but not pursuing it? By talking to some of them I understood that the main reasons for people to drop out from learning were,
 
-    They were overwhelmed by the number of topics to learn to become a Data Scientist
-    They come across gatekeepers who say that to become a Data Scientist one needs to be a talented programmer, an expert in mathematics, a master in applied statistics, and very skillful in using pandas, NumPy, and other python libraries.
+*They were overwhelmed by the number of topics to learn to become a Data Scientist
+They come across gatekeepers who say that to become a Data Scientist one needs to be a talented programmer, an expert in mathematics, a master in applied statistics, and very skillful in using pandas, NumPy, and other python libraries.
 
 These are enough to scare an experienced Data Scientist, no wonder they made people attempting to learn Data Science quit. Each of the above topics is like an ocean and when someone tries to master them quickly they get frustrated and quit the learning journey. The actual truth one needs to know just enough of the above topics to become a successful Data Scientist or to get hired as a Data Scientist.
-Show me the Path to Learn Data Science
-Photo by Joshua Earle on Unsplash
 
 To become a Data Scientist one needs to learn just enough from the below topics
 
-    Basics of Python or R programming
-    If you choose Python then libraries like Pandas and Numpy
-    Visualization libraries like ggplot, Seaborn, and Plotly.
-    Statistics
-    SQL Programming
-    Mathematics especially Linear Algebra and Calculus
+1. Basics of Python or R programming
+2. If you choose Python then libraries like Pandas and Numpy
+3. Visualization libraries like ggplot, Seaborn, and Plotly.
+4. Statistics
+5. SQL Programming
+6. Mathematics especially Linear Algebra and Calculus
 
 In this below video I have mentioned the step-by-step guide to learn Data Science. I have explained the depth of knowledge required to reach different levels of expertise in Data Science.
 How to plan the learning? Which topics should be covered first?
@@ -29,6 +27,8 @@ Let me clearly explain the plan to learn Data Science in 100 Days. Below is a Da
 ### Day 1: Installation of Tool
 
 Just ensure that the required tools are installed and you become comfortable with the tool you are going to use for the next few weeks/months. If you choose Python then install Anaconda, which would also install the IDEs Jupyter Notebook and Spyder. In case you choose ‘R’ then install RStudio. Try to just play around the IDE and become comfortable in using it. Like, try to understand about the installation of packages/libraries, executing a portion of the code, clearing the memory, and so on.
+
+[Day 1 Log]
 
 ### Day 2 to Day 7: Basic Programming for Data Science
 
