@@ -29,7 +29,7 @@ Let me clearly explain the plan to learn Data Science in 100 Days. Below is a Da
 </details>
 
 <details>
-<summary>100 day goals</summary>
+<summary>[IMP] 100 day goals</summary>
 <br>
 - Follow and post 100DaysofCode for learning and applying data science based on plan below
 - Follow schedule and 1-3-5 system to plan each day
@@ -46,7 +46,7 @@ Just ensure that the required tools are installed and you become comfortable wit
 [Day 1 Log](https://github.com/anirudhparameswaran/100-days-of-code/blob/master/log.md)
 
 ### Day 2 to Day 7: Basic Programming for Data Science
-
+### To be completed by Day 4
 The next step is to learn basic programming, below are some of the topics that should be learned
 
 - Creation of Variable
@@ -55,6 +55,10 @@ The next step is to learn basic programming, below are some of the topics that s
 - Collection data types List, Tuple, Sets, and Dictionary — It is important to understand the uniqueness and difference between each one of them’
 - If-Then-Else Conditions, For Loop and While Loop Implementations
 - Functions and Lambda Function — Benefits of each of them and their differences
+
+Resources: 
+- [YouTube Link](https://www.youtube.com/watch?v=2pzxBYCGQDk&t=46s)
+- [AMAZING article](https://www.dataquest.io/blog/how-to-learn-python-for-data-science-in-5-steps/)
 
 ### Day 8 to Day 17: Pandas Library
 
